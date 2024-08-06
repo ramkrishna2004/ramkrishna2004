@@ -1,7 +1,7 @@
 
 Hi! I'm Naga Rama Krishna Chari
 
-I'm a passionate and results-oriented pursuing a Bachelor of Technology in Computer Science and Engineering at DVR & Dr.HS MIC College of Technology (expected graduation 2025)
+I'm a passionate and results-oriented pursuing a Bachelor of Technology in Computer Science and Engineering at DVR & Dr.HS MIC College of Technology (expected graduation June,2025)
 
 I'm proficient in various programming languages and frameworks, including Java, Python, React Native, and JSP.
 
@@ -30,9 +30,10 @@ Built a React Native mobile application for bite-sized learning of C, Python, Da
 
 
 *Internships:
-
-Python with Data Structures Virtual Internship (September - November 2023): Gained hands-on experience in Python programming and data structures.
-I'm always looking for new challenges and opportunities to learn and grow.
+Web Application Penetration Testing :
+>Conducting manual and automated web application penetration tests, identifying and exploiting vulnerabilities.
+> Utilizing tools like Burp Suite, SQLMap, Nmap, and Wireshark for comprehensive security assessments.
+> Reporting vulnerabilities with detailed remediation steps, enhancing the security of web applications
 
 Feel free to reach out to me!
 
