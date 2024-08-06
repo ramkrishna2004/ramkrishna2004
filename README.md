@@ -31,9 +31,9 @@ Built a React Native mobile application for bite-sized learning of C, Python, Da
 
 *Internships:
 Web Application Penetration Testing :
->Conducting manual and automated web application penetration tests, identifying and exploiting vulnerabilities.
-> Utilizing tools like Burp Suite, SQLMap, Nmap, and Wireshark for comprehensive security assessments.
-> Reporting vulnerabilities with detailed remediation steps, enhancing the security of web applications
+Conducting manual and automated web application penetration tests, identifying and exploiting vulnerabilities.
+Utilizing tools like Burp Suite, SQLMap, Nmap, and Wireshark for comprehensive security assessments.
+Reporting vulnerabilities with detailed remediation steps, enhancing the security of web applications
 
 Feel free to reach out to me!
 
